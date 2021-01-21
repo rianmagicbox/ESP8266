@@ -5,12 +5,12 @@
 #include <ArduinoJson.h> // This Sketch doesn't technically need this, but the library does so it must be installed.
 
 //------- Replace the following! ------
-const char *ssid = "HughesNet_3C846A";
-const char *password = "HNAF005C";
+const char *ssid = "";
+const char *password = "";
 
 // Create a new application on https://dev.twitch.tv/
-#define TWITCH_CLIENT_ID "0vx842rlthfao1dmm5nq2c1e7d8d6w"
-#define TWITCH_ACCESSTOKEN "ssfeykf0kifkgknddafe0tr11rt0fb"
+#define TWITCH_CLIENT_ID ""
+#define TWITCH_ACCESSTOKEN ""
 
 
 
